@@ -16,7 +16,7 @@ To  address  the  need  for  refined  informationin  COVID-19  pandemic,  we  pr
 ## 1. Introduction
 In response to the COVID-19 pandemic, a lot ofscholarly articles have been published recently andmade  freely  available.   At  the  same  time,  thereare emerging requests from both the medical re-search community and the broader society to findanswers to various questions regarding COVID-19.   A system that can provide reliable answersto the COVID-19 related questions from the lat-est academic resources is crucial, especially for themedical community in the current time-critical raceto treat patients and to find a cure for the virus.
 
-> Nói về tính cần thiết cấp bách của hệ thông QA về COVID 19 đáng tin cậy 
+> Nói về tính cần thiết cấp bách của hệ thông QA đáng tin cậy về COVID 19 
 
 To address the aforementioned requests by themedical community, we propose a deep learning-based system that uses state-of-the-art natural lan-guage processing (NLP) question answering (QA)techniques combined with summarization for min-ing the available scientific literature. The system isan end-to-end neural network-based open-domainQA  system  that  can  answer  COVID-19  relatedquestions,  such  as  those  questions  proposed  inthe CORD-19 Kaggle task<sup>1</sup>. Through our system,users can get two versions of the outcome:
 * A ranked list of relevant snippets from theliterature given a query;
