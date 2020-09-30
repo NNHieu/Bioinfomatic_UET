@@ -89,4 +89,6 @@ To better display the question answering results,we leverage the prediction prob
 > Để hiển thị các kết quả QA tốt hơn, chúng tôi tận dụng `pred probability` của các  `QA model` như `confidence score`, mà sau đó sẽ được sử dụng khi xếp hạng lại tất cả các `answer`. Để nhận được `confidence score` từ 1 *tập hợp* (ensemble) 2 QA model, giả sử `confidence score` từ mỗi model tương ứng là s<sub>m</sub> và s<sub>b</sub>, chúng tôi làm theo quy tắc như sau:
 >
 >$s_{conf}=\begin{cases}0.5min(|s_m|,|s_b|) &\text{if } s_m, s_b < 0\\-max(|s_m|,|s_b|)&\text{if } s_m, s_b < 0 \small  \quad(\text{giống trường hợp trên})\\s_m + s_b \text{ otherwise}\end{cases}$  
+
+
 $e^i$
