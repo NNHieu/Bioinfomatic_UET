@@ -53,7 +53,7 @@ With the release of the COVID-19 Open ResearchDataset  (CORD-19)<sup>3</sup> by 
 
 All  these  systems  either  focus  on  search  en-gine  such  as  CORD-19  Search  or  medical  con-cepts such as WellAI COVID-19 Research Tooland tmCOVID. However, our system, in addition to information retrieval, gives high quality relevantsnippets and summarization results based on the user query. We provide a more versatile system for public use, which can display various informationabout COVID-19 in a well structured and concise manner.
 
-> Tất cả các hệ thống trên tập trung vào Search Engine (máy tìm kiếm), hệ thống của chúng tôi hơn thế, cho ra các đoạn trích liên quan và tóm tắt với chất lược cao từ `query` của người dùng. Chúng tôi cung cấp 1 hệ thống linh hoạt hơn mà cộng đồng có thể sử dụng, hiện thị lượng lớn thông tin về COVID 19 được cấu trúc và rút gọn.
+> Tất cả các hệ thống trên tập trung vào Search Engine (máy tìm kiếm), hệ thống của chúng tôi hơn thế, cho ra các đoạn trích liên quan và tóm tắt với chất lược cao từ `query` của người dùng. Chúng tôi cung cấp 1 hệ thống linh hoạt hơn giúp cộng đồng có thể sử dụng, cung cấp lượng lớn thông tin về COVID 19 được cấu trúc và rút gọn.
 
 ## 3 System Architecture Overview
 
