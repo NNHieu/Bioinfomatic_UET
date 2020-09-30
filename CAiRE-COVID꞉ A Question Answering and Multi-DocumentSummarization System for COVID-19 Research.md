@@ -4,6 +4,7 @@ title: 'CAiRE-COVID: A Question Answering and Multi-DocumentSummarization System
 created: '2020-09-30T12:45:29.343Z'
 modified: '2020-09-30T15:53:34.116Z'
 ---
+[source](https://arxiv.org/pdf/2005.03975.pdf?fbclid=IwAR1dngHCs_z5x8PYMbABH11zrywOIcx4VMkIJ-5kQJxRPkO2u_01odf47hI)
 
 # CAiRE-COVID: <br>A Question Answering and Multi-DocumentSummarization System for COVID-19 Research
 
